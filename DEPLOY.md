@@ -63,6 +63,6 @@
    choisir la branche `gh-pages` et enregistrer
 
 → le site devrait être accessible à l'adresse :  
-<https://votre_pseudo.github.io/votre_projet/>
+<https://Babatta.github.io/deploiement-saison3/>
 
-> avec, ici, `votre projet` = `devops-s03-deploy`    
+> avec, ici, `votre projet` = `deploiement-saison3`    
