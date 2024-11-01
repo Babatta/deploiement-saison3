@@ -4,7 +4,7 @@ import { svelteTesting } from '@testing-library/svelte/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/devops-s03-deploy/', // nom du dépôt
+  base: '/deploiement-saison3/', // nom du dépôt
   plugins: [
     svelte(),
     svelteTesting()
